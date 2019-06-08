@@ -1,5 +1,5 @@
 
-Resurrection Remix OS Oreo Source 2018
+Resurrection Remix OS Oreo Source 2019 (UNOFFICIAL)
 ===================
 
 [Crowdin for translations](https://crowdin.com/project/resurrectionremix/)
@@ -100,12 +100,19 @@ Alright, so now we’re getting there. I have outlined the basics of what we’r
 
 ##### Initializing the RR repo and downloading the manifest
 
-      $  repo init -u https://github.com/ResurrectionRemix/platform_manifest.git -b oreo
+      $  repo init -u https://github.com/ananjaser1211/platform_manifest.git -b oreo
 
 ##### Syncing the source
 [Hint: This might take a long time as the source is ~26GB]
 
-      $  repo sync -f --force-sync --no-clone-bundle
+      $  repo sync -f --force-sync --no-clone-bundle  
+	  
+##### Fixing undefined "NATIVE_HANDLE_MAX*" after Android-8.1.0-R62 Merge
+
+      $  cd system/core
+      $  git remote add google https://android.googlesource.com/platform/system/core
+      $  git pull
+      $  git pull google android-8.1.0_r62	  
 
 ### Building the Resurrection Remix ROM
 - Preparing Required Binaries and Device Drivers
