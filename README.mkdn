@@ -107,12 +107,7 @@ Alright, so now we’re getting there. I have outlined the basics of what we’r
 
       $  repo sync -f --force-sync --no-clone-bundle  
 	  
-##### Fixing undefined "NATIVE_HANDLE_MAX*" after Android-8.1.0-R62 Merge
-
-      $  cd system/core
-      $  git remote add google https://android.googlesource.com/platform/system/core
-      $  git pull
-      $  git pull google android-8.1.0_r62	  
+	  
 
 ### Building the Resurrection Remix ROM
 - Preparing Required Binaries and Device Drivers
