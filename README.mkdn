@@ -31,10 +31,10 @@ so simply copy and paste this in a terminal window:
 
 ### Build Environment
 
-- Tested and Working on any version of Ubuntu - 14.04,14.10,15.04 (64-bit)
+- Tested and Working on any version of Ubuntu - 16.04 (64-bit)
 - Any other distribution based of the Ubuntu Distro such as Lubuntu, Xubuntu and etc.
 - Any form of Terminal
-- Decent hardware (minimum of at least a dual core CPU and 8 GB of RAM)
+- Decent hardware (minimum of at least a Dual Core CPU and 8 GB of RAM)
 - A storage unit of any kind (We recommend utilizing SSDs as Mechanical HDDs slow down the build proccess drastically and the minimum storage size is 70GB. Having more will be useful with CCache[More on that later])
 - Required Packages should have been installed
 
