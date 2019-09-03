@@ -21,11 +21,11 @@
   <project path="frameworks/native" name="ResurrectionRemix/frameworks_native" remote="rr" />
   <project path="frameworks/opt/slimrecent" name="ResurrectionRemix/frameworks_opt_slimrecent" remote="rr" />
   <project path="lineage-sdk" name="ResurrectionRemix/lineage-sdk" remote="rr" />
-  <project path="packages/apps/Contacts" name="ResurrectionRemix/android_packages_apps_Contacts" remote="rr" />
-  <project path="packages/apps/Dialer" name="ResurrectionRemix/android_packages_apps_Dialer" remote="rr" />
+  <project path="packages/apps/Contacts" name="LineageOS/android_packages_apps_Contacts" remote="rr" />
+  <project path="packages/apps/Dialer" name="LineageOS/android_packages_apps_Dialer" remote="rr" />
   <project path="packages/apps/DUI" name="ResurrectionRemix/packages_apps_DUI" remote="rr" />
   <project path="packages/apps/ResurrectionOTA" name="ResurrectionRemix/packages_apps_ResurrectionOTA" remote="rr" />
-  <project path="packages/apps/Messaging" name="ResurrectionRemix/android_packages_apps_Messaging" remote="rr" />
+  <project path="packages/apps/Messaging" name="LineageOS/android_packages_apps_Messaging" remote="rr" />
   <project path="packages/apps/OmniStyle" name="ResurrectionRemix/android_packages_apps_OmniStyle" remote="rr" />
   <project path="packages/apps/Settings" name="ResurrectionRemix/Resurrection_packages_apps_Settings" remote="rr" />
   <project path="packages/apps/SnapdragonCamera2" name="omnirom/android_packages_apps_SnapdragonCamera2" remote="github" revision="android-8.1" />
