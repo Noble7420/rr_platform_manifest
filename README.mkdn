@@ -2,6 +2,10 @@
 Resurrection Remix OS Oreo Source 2019 (UNOFFICIAL)
 ===================
 
+Note
+---------------
+Before continuing, I would like to clarify that RR-O was discontinued in version 6.2.1, so if you look at 6.2.2 or some other higher version, it means that it is not official and therefore I continued adding more features and  keeping that branch, that said, proceeds.
+
 [Crowdin for translations](https://crowdin.com/project/resurrectionremix/)
 
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/resurrectionremix/localized.svg)](https://crowdin.com/project/resurrectionremix)
