@@ -29,7 +29,7 @@
   <project path="packages/apps/OmniStyle" name="ResurrectionRemix/android_packages_apps_OmniStyle" remote="rr" />
   <project path="packages/apps/Settings" name="DqrKn3Zz/Resurrection_packages_apps_Settings" remote="rr" />
   <project path="packages/apps/SnapdragonCamera2" name="omnirom/android_packages_apps_SnapdragonCamera2" remote="github" revision="android-8.1" />
-  <!--project path="packages/apps/Trebuchet" name="ResurrectionRemix/android_packages_apps_Trebuchet" remote="rr" /-->
+  <project path="packages/apps/Trebuchet" name="ResurrectionRemix/android_packages_apps_Trebuchet" remote="rr" />
   <project path="packages/apps/Lawnchair" name="LawnchairLauncher/Lawnchair" revision="beta" />
   <project path="packages/services/Telecomm" name="ResurrectionRemix/android_packages_services_Telecomm" remote="rr" />
   <project path="packages/services/Telephony" name="ResurrectionRemix/android_packages_services_Telephony" remote="rr" />
