@@ -1,5 +1,5 @@
 
-Resurrection Remix OS Oreo Source 2019 (UNOFFICIAL)
+Resurrection Remix OS Oreo Source 2019 [With Google Apps] (UNOFFICIAL)
 ===================
 
 Note
@@ -88,7 +88,7 @@ Alright, so now we’re getting there. I have outlined the basics of what we’r
 
 ##### Initializing the RR repo and downloading the manifest
 
-      $  repo init -u https://github.com/DqrKn3Zz/rr_platform_manifest.git -b oreo
+      $  repo init -u https://github.com/DqrKn3Zz/rr_platform_manifest.git -b google
 
 ##### Syncing the source
 [Hint: This might take a long time as the source is ~26GB]
