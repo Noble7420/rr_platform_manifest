@@ -1,4 +1,4 @@
- <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <manifest>
 
@@ -36,4 +36,4 @@
   <remove-project name="platform/packages/apps/Gallery2" />
   <remove-project name="platform/packages/apps/WallpaperPicker" />
 
-  </manifest>
+ </manifest>
