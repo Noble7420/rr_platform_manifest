@@ -557,6 +557,7 @@
   <include name="snippets/rr.xml" />
   <include name="snippets/opengapps.xml" />
   <include name="snippets/remove.xml" />
+	<include name="snippets/pixel.xml" />
 	
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
