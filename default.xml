@@ -555,8 +555,8 @@
 
   <include name="snippets/lineage.xml" />
   <include name="snippets/rr.xml" />
-  <include name="snippets/opengapps" />
-  <include name="snippets/remove" />
+  <include name="snippets/opengapps.xml" />
+  <include name="snippets/remove.xml" />
 	
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
