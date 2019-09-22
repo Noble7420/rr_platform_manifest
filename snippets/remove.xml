@@ -16,7 +16,7 @@
   <remove-project name="platform/packages/apps/DevCamera" />
   <!--remove-project name="platform/packages/apps/Settings" /-->
   <remove-project name="LineageOS/android_packages_apps_Stk" />
-  <remove-project name="LineageOS/android_packages_apps_Nfc" />
+  <!--remove-project name="LineageOS/android_packages_apps_Nfc" /-->
   <remove-project name="LineageOS/android_packages_apps_PackageInstaller" />
   <remove-project name="platform/packages/inputmethods/OpenWnn" />
   <remove-project name="platform/packages/providers/DownloadProvider" />
