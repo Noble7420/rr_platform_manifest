@@ -5,7 +5,7 @@
   <!-- Packages repos -->
   <remove-project name="LineageOS/android_packages_apps_Email" />
   <remove-project name="LineageOS/android_packages_apps_Jelly" />
-  <remove-project name="platform/packages/apps/CarrierConfig" />
+  <!--remove-project name="platform/packages/apps/CarrierConfig" /-->
   <remove-project name="platform/packages/apps/CellBroadcastReceiver" />
   <remove-project name="platform/packages/apps/EmergencyInfo" />
   <!--remove-project name="platform/packages/apps/Bluetooth" /-->
